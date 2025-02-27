@@ -133,7 +133,7 @@ requests_collection.insert_many(user_requests)
 knowledge_collection = db["knowledge"]
 
 # OpenAI/Groq API Key
-GROQ_API_KEY = "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"  # Replace with your actual API key
+GROQ_API_KEY = st.secrets["GROQ_API_KEY"]  # Replace with your actual API key
 
 llm = ChatGroq(
     groq_api_key=GROQ_API_KEY,
