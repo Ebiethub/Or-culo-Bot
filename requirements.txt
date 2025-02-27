@@ -4,7 +4,6 @@ googletrans
 pymongo
 streamlit 
 sentence_transformers 
-faiss-cpu
 numpy 
 asyncio
 requests
