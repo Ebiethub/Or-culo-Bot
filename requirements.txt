@@ -2,7 +2,7 @@ fastapi
 langchain_groq 
 googletrans 
 pymongo
-streamlit as st
+streamlit 
 sentence_transformers 
 faiss
 numpy 
