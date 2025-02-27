@@ -1,0 +1,10 @@
+fastapi 
+langchain_groq 
+googletrans 
+pymongo
+streamlit as st
+sentence_transformers 
+faiss
+numpy 
+asyncio
+requests
